@@ -1,0 +1,8 @@
+playwright
+pandas
+tqdm
+python-dotenv
+sentence-transformers
+faiss-cpu
+sqlalchemy
+python-magic
